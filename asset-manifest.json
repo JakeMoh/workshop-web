@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/workshop-web/static/css/main.a617e044.chunk.css",
-    "main.js": "/workshop-web/static/js/main.10a7af08.chunk.js",
-    "main.js.map": "/workshop-web/static/js/main.10a7af08.chunk.js.map",
+    "main.js": "/workshop-web/static/js/main.457a1d91.chunk.js",
+    "main.js.map": "/workshop-web/static/js/main.457a1d91.chunk.js.map",
     "runtime-main.js": "/workshop-web/static/js/runtime-main.7910a861.js",
     "runtime-main.js.map": "/workshop-web/static/js/runtime-main.7910a861.js.map",
     "static/js/2.66385812.chunk.js": "/workshop-web/static/js/2.66385812.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7910a861.js",
     "static/js/2.66385812.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.10a7af08.chunk.js"
+    "static/js/main.457a1d91.chunk.js"
   ]
 }
